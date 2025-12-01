@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../BenchmarkTest/BenchmarkTest.csproj" />
+  <Project Path="../UnitTest/UnitTest.csproj" />
+  <Project Path="SearchTaxiSystem.csproj" />
+</Solution>
