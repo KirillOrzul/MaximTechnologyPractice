@@ -151,7 +151,7 @@ namespace SearchTaxiSystem
         }
 
 
-        // ТРЕТИЙ АЛГОРИТМ: ПОИСК МАШЫН НА РАЗБИТОЙ НА КВАДРАТЫ КАРТЕ ОТ БЛИЖАЙШИХ КВАДРАТОВ К ЗАКАЗЧИКУ
+        // ТРЕТИЙ АЛГОРИТМ: ПОИСК МАШЫН СРЕДИ КВАДРАТОВ НА КОТОРЫЕ РАЗБИТА КАРТА
         public void SearchByGrid(Customers customer)
         {
             var foundCars = new List<(Car car, double distance)>();
