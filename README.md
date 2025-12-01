@@ -4,4 +4,4 @@
 ### BenchmarkDotNEt тестирование
 ![Benchmark Test](./img/benchmarkTest.png)
 ### NUnit тестирование
-![NUnit Test](./img/NUnitTest.png)
+![NUnit Test](./img/nunitTest.png)
